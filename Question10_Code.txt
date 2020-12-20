@@ -1,0 +1,70 @@
+Longest Common Subsequence
+
+Given two strings s1 and s2 return the length of the longest common subsequence of characters between the two strings.
+
+Example 1:
+
+Input:
+s1 = "ABCD"
+s2 = "ABCD"
+
+Output: 4
+Explanation:
+"ABCD"
+"ABCD"
+Both strings share the subsequence "A", "B", "C", "D".
+
+
+Example 2:
+
+Input:
+s1 = "ADC"
+s2 = "ABCD"
+
+Output: 2
+Explanation:
+"ADC"
+"ABCD"
+Both strings share the subsequence "A", "D".
+
+
+Example 3:
+
+Input:
+s1 = "DBC"
+s2 = "CBD"
+
+Output: 1
+Explanation:
+"DBC"
+"CBD"
+      or
+"DBC"
+"CBD"
+      or
+"DBC"
+"CBD"
+
+
+
+
+
+ Class A{
+    predefined attributes 
+    Metjod
+    Propertyies
+} --> In DLL
+
+We have to expose this A as an attribute
+
+can we have any class have tht as a attribute?
+
+reflection get the attribute
+
+
+Class A {
+    SomeClass Value;
+    
+}
+
+
